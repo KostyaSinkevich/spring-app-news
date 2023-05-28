@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/controller/MainController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/dao/DAOException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/dao/NewsDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/dao/UserDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/dao/impl/NewsDAOImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/dao/impl/UserDAOImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/entity/News.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/entity/Role.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/entity/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/entity/UserDetails.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/service/NewsService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/service/ServiceException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/service/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/service/impl/NewsServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/service/impl/UserServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/util/validation/ValidationBuilder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/util/validation/ValidationException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/util/validation/impl/NewsValidationImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/htp/util/validation/impl/UserValidationImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources" charset="UTF-8" />
+  </component>
+</project>
